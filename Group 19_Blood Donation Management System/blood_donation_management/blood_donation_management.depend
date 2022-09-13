@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1605972305 source:c:\users\dell\desktop\blood_donation_management\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+
+1605972305 source:c:\users\dell\desktop\group 19_blood donation management system\blood_donation_management\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+
